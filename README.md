@@ -23,12 +23,7 @@ It covers basic Selenium concepts and examples demonstrated through practical te
    ```
    git clone https://github.com/binaduwal/selenium-java-beginner.git
    ``` 
-2. Navigate to the project directory:
-```
-cd selenium-java-beginner
-```
-
-3. Run tests using Maven:
+2. Run tests using Maven:
 ```
 mvn test
 ```
